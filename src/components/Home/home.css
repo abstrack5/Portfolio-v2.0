@@ -1,0 +1,15 @@
+body {
+    background-color: darkblue;
+}
+.home-container {
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+    margin-top: 3rem;
+}
+
+.home-container img {
+    max-width: 300px;
+    max-height: 500px;
+    border-radius: 50%;
+}
