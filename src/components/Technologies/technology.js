@@ -1,6 +1,6 @@
 const Technologies = () => {
     return (
-      <section className=' '>
+      <section className='background'>
         <h2>Technologies</h2>
       </section>
     );

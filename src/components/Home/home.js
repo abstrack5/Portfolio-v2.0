@@ -5,13 +5,13 @@ import profilePic from "../../images/profilePic.jpeg";
 
 function Homepage() {
   return (
-    <div className="home-container background">
+    <main className="home-container background">
       <div>
         <p className="welcomeMsg">Hey!</p>
         <p className="welcomeMsg">I'm Armon</p>
       </div>
           <img src={profilePic} alt="profile" className="profile-img"/>
-    </div>
+    </main>
   );
 }
 
