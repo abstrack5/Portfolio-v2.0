@@ -7,12 +7,10 @@ function Homepage() {
   return (
     <div className="home-container background">
       <div>
-        <h1>Hey!</h1>
-        <h1>I'm Armon</h1>
+        <p className="welcomeMsg">Hey!</p>
+        <p className="welcomeMsg">I'm Armon</p>
       </div>
-      <div>
-          <img src={profilePic} alt="profile picture" width='275px' className="profile-img"/>
-      </div>
+          <img src={profilePic} alt="profile" className="profile-img"/>
     </div>
   );
 }
