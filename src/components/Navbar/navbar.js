@@ -11,16 +11,16 @@ function NavigationBar() {
       <Navbar bg="dark" variant="dark" className="py-3">
         <Container className="justify-content-center">
           <Nav className="nav-font nav-tabs">
-            <NavLink
+            {/* <NavLink
               to="/"
               className={(isActive) =>
                 "nav-link" + (!isActive ? " unselected" : "")
               }
             >
               Home
-            </NavLink>
+            </NavLink> */}
             <NavLink
-              to="about"
+              to="/"
               className={(isActive) =>
                 "nav-link" + (!isActive ? " unselected" : "")
               }
@@ -28,20 +28,20 @@ function NavigationBar() {
               About
             </NavLink>
             <NavLink
-              to="technologies"
+              to="portfolio"
               className={(isActive) =>
                 "nav-link" + (!isActive ? " unselected" : "")
               }
             >
-              Technologies
+              Portfolio
             </NavLink>
             <NavLink
-              to="projects"
+              to="resume"
               className={(isActive) =>
                 "nav-link" + (!isActive ? " unselected" : "")
               }
             >
-              Projects
+              Resume
             </NavLink>
             <NavLink
               to="contact"

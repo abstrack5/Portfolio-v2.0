@@ -1,9 +1,31 @@
+.home-container {
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+    background-color:#fff;
+}
+
+.welcomeMsg {
+  font-size: 6vw;
+  color: rgb(255, 255, 255);
+  -webkit-text-stroke: 2.5px #000000;
+}
+
+.profile-img {
+    border:2px solid black; 
+    width: 25%;
+    border-radius:50%;
+    /* -moz-border-radius:50%; */
+    /* -webkit-border-radius:50%; */
+    
+}
+
 .background {
-    background-image: url(../../images/background.jpg);
-    /* background-position: center; */
-    background-repeat: no-repeat;
-    background-size: cover;
-    /* background-attachment:fixed; */
-    width: 100vw;
-    height: 93.9vh;
-  }
+  background-image: url(../../images/background.jpg);
+  /* background-position: center; */
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-attachment:fixed;
+  width: 100vw;
+  height: 93.9vh;
+}

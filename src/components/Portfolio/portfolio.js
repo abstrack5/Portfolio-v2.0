@@ -1,8 +1,8 @@
-const Project = () => {
+const Portfolio = () => {
     return (
       <section className='background'>
-        <h2>Projects</h2>
+        <h2>Portfolio</h2>
       </section>
     );
   };
-  export default Project;
+  export default Portfolio;
