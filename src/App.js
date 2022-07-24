@@ -2,7 +2,7 @@ import React from "react";
 import "./App.css";
 import { BrowserRouter, Routes, Route } from "react-router-dom";
 import NavigationBar from "./components/Navbar/navbar";
-// import Homepage from "./components/About/about";
+import Footer from "./components/Footer/footer";
 import About from "./components/About/about";
 import Portfolio from "./components/Portfolio/portfolio";
 import Resume from "./components/Resume/resume";
@@ -19,6 +19,7 @@ function App() {
         <Route path='resume' element={<Resume />} />
         <Route path='contact' element={<Contact />} />
       </Routes>
+      <Footer />
     </BrowserRouter>
   );
 }

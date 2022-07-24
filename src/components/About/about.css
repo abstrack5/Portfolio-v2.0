@@ -1,3 +1,17 @@
+.background {
+  background-image: url(../../images/background.jpg);
+  /* background-position: center; */
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-attachment:fixed;
+  /* width: 100vw; */
+  height: 100vh;
+}
+
+.intro {
+  display: block;
+}
+
 .home-container {
     display: flex;
     justify-content: space-evenly;
@@ -13,19 +27,19 @@
 
 .profile-img {
     border:2px solid black; 
-    width: 25%;
-    border-radius:50%;
+    width: 80%;
+    border-radius:75%;
     /* -moz-border-radius:50%; */
     /* -webkit-border-radius:50%; */
     
 }
 
-.background {
-  background-image: url(../../images/background.jpg);
-  /* background-position: center; */
-  background-repeat: no-repeat;
-  background-size: cover;
-  background-attachment:fixed;
-  width: 100vw;
-  height: 93.9vh;
+.about-container {
+  border: 1px solid  rgba(255, 255, 255, 0.333);
+  background-color: rgba(255, 255, 255, 0.333);
+  color:rgb(0, 0, 0);
+}
+
+.about-container h2 {
+  text-align: center;
 }
