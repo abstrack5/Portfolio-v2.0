@@ -1,7 +1,9 @@
 const Resume = () => {
     return (
       <section className='background'>
-        <h2>Resume</h2>
+        <div className='welcomeMsg text-center pt-5'>
+        <h1>Resume</h1>
+        </div>
       </section>
     );
   };
