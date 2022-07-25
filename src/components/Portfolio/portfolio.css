@@ -1,9 +1,35 @@
-.background {
+.background { 
     background-image: url(../../images/background.jpg);
-    /* background-position: center; */
-    background-repeat: no-repeat;
+    background-position: center;
+    /* background-repeat: no-repeat; */
     background-size: cover;
-    /* background-attachment:fixed; */
-    width: 100vw;
-    height: 93.9vh;
-  }
+    background-attachment:fixed;
+  /* width: 100vw; */
+  /* height: 100vh; */
+}
+
+
+.port-img {
+  width: 30vw;
+  /* height: 28vh; */
+  border: 2px solid black;
+}
+
+/* .project-two {
+  height: 22.2vw;
+}
+.project-three {
+  height: 20.2vw;
+} */
+
+/* .port-div {
+  padding-left: 15rem;
+} */
+
+.container-fluid {
+  /* display: flex; */
+  justify-content: center;
+  align-items: center;
+  /* margin: 0 auto; */
+  /* grid-template-columns: repeat(3, minmax(0, 1fr)); */
+}

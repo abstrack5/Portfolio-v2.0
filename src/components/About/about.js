@@ -10,7 +10,7 @@ function About() {
         <h1 className="welcomeMsg">Hey!</h1>
         <h1 className="welcomeMsg">I'm Armon</h1>
       </div>
-      <div className="col-3 mt-5 pt-5">
+      <div className="col-4 mt-5 pt-5">
           <img src={profilePic} alt="profile" className="profile-img"/>
       </div>    
       <div className="about-container rounded col-8 mt-5 mb-5">
