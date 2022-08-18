@@ -1,21 +1,21 @@
 {
   "files": {
-    "main.css": "/Portfolio-v2.0/static/css/main.52df71cb.css",
-    "main.js": "/Portfolio-v2.0/static/js/main.9c3f88b7.js",
+    "main.css": "/Portfolio-v2.0/static/css/main.f20e0918.css",
+    "main.js": "/Portfolio-v2.0/static/js/main.385ca442.js",
     "static/js/787.7bb3afe3.chunk.js": "/Portfolio-v2.0/static/js/787.7bb3afe3.chunk.js",
     "static/media/background.jpg": "/Portfolio-v2.0/static/media/background.220e2cb4a1d790697dc2.jpg",
     "static/media/weatherApp.png": "/Portfolio-v2.0/static/media/weatherApp.deed45584412434aa6c3.png",
-    "static/media/run-buddy-snap.jpeg": "/Portfolio-v2.0/static/media/run-buddy-snap.a23fb0248b9a1137158a.jpeg",
     "static/media/profilePic.jpeg": "/Portfolio-v2.0/static/media/profilePic.96d359175a861eb8cfbc.jpeg",
+    "static/media/lastProject.PNG": "/Portfolio-v2.0/static/media/lastProject.fc26d81cab0c61895a74.PNG",
     "static/media/GüdEats-app-screenshot.jpeg": "/Portfolio-v2.0/static/media/GüdEats-app-screenshot.412f7926c26f51ff6dc5.jpeg",
     "static/media/coffee-br.png": "/Portfolio-v2.0/static/media/coffee-br.3e2b27d8331993a78055.png",
     "index.html": "/Portfolio-v2.0/index.html",
-    "main.52df71cb.css.map": "/Portfolio-v2.0/static/css/main.52df71cb.css.map",
-    "main.9c3f88b7.js.map": "/Portfolio-v2.0/static/js/main.9c3f88b7.js.map",
+    "main.f20e0918.css.map": "/Portfolio-v2.0/static/css/main.f20e0918.css.map",
+    "main.385ca442.js.map": "/Portfolio-v2.0/static/js/main.385ca442.js.map",
     "787.7bb3afe3.chunk.js.map": "/Portfolio-v2.0/static/js/787.7bb3afe3.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.52df71cb.css",
-    "static/js/main.9c3f88b7.js"
+    "static/css/main.f20e0918.css",
+    "static/js/main.385ca442.js"
   ]
 }
