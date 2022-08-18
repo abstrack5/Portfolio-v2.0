@@ -1,5 +1,5 @@
 > My React Portfolio
-> A link to the portfolio website is [_here_](https://abstrack5.github.io/).
+> A link to the portfolio website is [_here_](https://abstrack5.github.io/Portfolio-v2.0/).
 
 ## Table of contents
 * [General info](#general-info)
